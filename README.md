@@ -1,3 +1,4 @@
 # Django-LittleLemon-Booking-System
 The back-end for the booking form on the Little Lemon website. 
-https://raw.githubusercontent.com/azateser/little-lemon-finalProject/master/readmeAssets/screenshots/screenshot.png
+
+<img width="1440" alt="screenshot" src="https://github.com/enmanuelneri/LittleLemon/assets/42842920/1546e7e6-1925-4bd1-a9a4-768dc8be9f21">
